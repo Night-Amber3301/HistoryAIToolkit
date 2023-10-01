@@ -50,7 +50,7 @@ package-dir = {"" = "src"}
 
 
 [project.scripts]
-historyaitoolkit = "interviewkit.cli:app"
+hist = "interviewkit.cli:app"
 
 
 # Isort
